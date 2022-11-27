@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/52A7lONVShOGozNUIBefiCiwEgG2F2c2nlHr+VWhXnpN/A8aprRCsqumhDr2sv1lhzlfoqOL8ENhWGuo+R0g==",
+  "dgSpecHash": "wkfu3+vAXFXkJJDzuWB55F/mLdw65uKDPqFAb0zRVOWdU2J2nkLY9MkK9XFT6SY8tBYzMyaggToOl3Snilwzjg==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\Curso Udemy - API DDD\\curso_aspnetcore_api\\src\\Api.Service\\Api.Service.csproj",
   "expectedPackageFiles": [
